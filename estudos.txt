@@ -1,1 +1,12 @@
+Conceitos básicos do git: 
 
+Git é um sistema de controle de versão distribuído que rastreia mudanças no código, essencial para colaboração e histórico de projetos. Os conceitos básicos incluem repositório (diretório do projeto), commit (salvamento de alterações), branch (linha de trabalho paralela) e merge (unificação de branches). É baseado em três áreas: de trabalho, staging (preparo) e repositório local.
+
+GitHub repositórios
+
+Um repositório no GitHub funciona como uma pasta digital que armazena todo o código, arquivos e o histórico de revisões do seu projeto. É o espaço onde você gerencia seu trabalho, colabora com outros desenvolvedores e organiza as versões do que está construindo.  
+
+VS Code: Integração com o git
+
+O VS Code possui suporte nativo ao Git, permitindo controle de versão completo (clone, commit, push, pull, branch) via interface gráfica na barra lateral "Source Control". A integração facilita o gerenciamento de repositórios, visualização de diferenças de arquivos (diffs) e resolução de conflitos sem usar o terminal, bastando ter o Git instalado na máquina. 
+Integrar o Git ao VS Code é nativo e simples: instale o Git no seu computador, configure seu usuário/email no terminal (git config --global user.name "Nome"), e abra seu projeto. O VS Code detecta o repositório automaticamente no painel "Controle de Código Fonte" (Ctrl+Shift+G). 
