@@ -1,4 +1,4 @@
-Conceitos básicos do git: 
+Conceitos basicos do git: 
 
 Git é um sistema de controle de versão distribuído que rastreia mudanças no código, essencial para colaboração e histórico de projetos. Os conceitos básicos incluem repositório (diretório do projeto), commit (salvamento de alterações), branch (linha de trabalho paralela) e merge (unificação de branches). É baseado em três áreas: de trabalho, staging (preparo) e repositório local.
 
